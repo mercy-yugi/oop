@@ -8,7 +8,7 @@ Winnie.eat(5)
     mercy.speak("hello")
 
 //increments age by one
-    mercy.birthday(40)
+    Winnie.birthday(30)
     println(mercy.age)
 
 //create and print two instances of the class.
