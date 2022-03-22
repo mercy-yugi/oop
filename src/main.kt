@@ -1,9 +1,9 @@
 //create a class human with attributes name,age,weight
 
 fun main(){
-var mercy=Human("MERCY",40,60)
-mercy.eat(5)
-    println(mercy.weight)
+var mercy=Human("Winnie",40,60)
+Winnie.eat(5)
+    println(Winnie.weight)
     //passes string passed to it
     mercy.speak("hello")
 
